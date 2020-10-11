@@ -1,12 +1,16 @@
 # chat_flutter
 
-Chat em flutter com firebase
+Chat desenvolvido com Flutter 💙 utilizando o Firebase 💛 para armazenar as mensagens e na autenticação com o Google.
 
-## Getting Started
+Apenas usuários logados podem enviar mensagens.
 
-This project is a starting point for a Flutter application.
+Suporte a texto e imagens da câmera do dispositivo Android.
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align="center">Preview 📱</h2>
+   
+<p align="center">
+    <img src="docs/chat.gif">
+</p>
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
